@@ -1,0 +1,6 @@
+Pandas: Data manipulation and analysis
+NumPy: Numerical operations
+Scikit-learn: Machine learning algorithms and preprocessing
+nltk: Text processing and natural language processing (NLP)
+Matplotlib: Data visualization
+Seaborn: Data visualization
